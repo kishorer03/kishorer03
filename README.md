@@ -49,7 +49,7 @@ software engineering.
 
 ## 🗂️ Featured Projects
 
-### [🌐 User Management Portal](https://github.com/kishorer03/MovieList)
+### [🌐 User Management Portal](https://github.com/kishorer03/UserManagement)
 > A full-stack application that allows admin users to manage employees and restricts regular users to view-only mode. Built with **React** and **Spring Boot**, this project was my first deep dive into access control and user authentication.
 
 ### [🎬 Movie Watchlist](https://github.com/kishorer03/MovieList)
