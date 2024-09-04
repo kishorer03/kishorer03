@@ -49,16 +49,16 @@ software engineering.
 
 ## 🗂️ Featured Projects
 
-### [🌐 User Management Portal](https://github.com/kishorer03/user-management-portal)
+### [🌐 User Management Portal](https://github.com/kishorer03/MovieList)
 > A full-stack application that allows admin users to manage employees and restricts regular users to view-only mode. Built with **React** and **Spring Boot**, this project was my first deep dive into access control and user authentication.
 
-### [🎬 Movie Watchlist](https://github.com/kishorer03/movie-watchlist)
+### [🎬 Movie Watchlist](https://github.com/kishorer03/MovieList)
 > This app lets users explore, rate, and save movies from the OMDB API. Built with **React** and **Tailwind CSS**, the focus was on seamless UI/UX and efficient API handling.
 
-### [🎒 Packing List](https://github.com/kishorer03/packing-list)
+### [🎒 Packing List](https://github.com/kishorer03/PackingList)
 > A sleek and responsive packing list manager to help users keep track of their travel essentials. Developed with **React** and **Tailwind CSS**, the project emphasizes minimalistic design and user experience.
 
-### [🧠 Simon Challenge](https://github.com/kishorer03/simon-challenge)
+### [🧠 Simon Challenge](https://github.com/kishorer03/SimonGameChallenge)
 > A classic memory game created using **JavaScript**. It’s a fun way to challenge your memory and learn how game logic works.
 ---
 
