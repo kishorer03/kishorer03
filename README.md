@@ -9,7 +9,7 @@
 ## 🚀 About Me
 - 🎓 **Education:** Bachelor of Engineering (B.E.) from Thiagarajar College of Engineering, Madurai (2020–2024)
 - 💼 **Experience:** Engineering Trainee at Tata Elxsi, developed a C++ script for GPS data processing and contributed to a deep learning model for obstacle identification in autonomous vehicles.
-- 🌱 **Currently Learning:** React, Spring Boot, Docker, AWS, and cloud-based development.
+- 🌱 **Currently Learning:** React, Spring Boot, Docker.
 - 💡 **Interests:** Full-stack development, Software development, DevOps.
 - 🎯 **Goal:** To innovate and contribute to cutting-edge web applications that solve real-world challenges.
 
