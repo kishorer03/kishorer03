@@ -46,15 +46,19 @@
 
 ### [🌐 User Management Portal](https://github.com/kishorer03/UserManagement)
 > A full-stack application allowing admin users to manage employees while restricting regular users to view-only mode. Built with **React** and **Spring Boot**.
+[Explore the Website](https://usermanagementportalbykishorer.netlify.app/)
 
 ### [🎬 Movie Watchlist](https://github.com/kishorer03/MovieList)
 > Explore, rate, and save movies from the OMDB API. Built with **React** and **Tailwind CSS** for seamless UI/UX.
+[Explore the Website]()
 
 ### [🎒 Packing List](https://github.com/kishorer03/PackingList)
 > A responsive packing list manager to track your travel essentials. Developed with **React** and **Tailwind CSS**.
+[Explore the Website]()
 
 ### [🧠 Simon Challenge](https://github.com/kishorer03/SimonGameChallenge)
 > A classic memory game using **JavaScript**. Test your memory and dive into game logic.
+[Explore the Website]()
 
 ---
 
