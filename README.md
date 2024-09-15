@@ -58,7 +58,7 @@
 
 ### [🧠 Simon Challenge](https://github.com/kishorer03/SimonGameChallenge)
 > A classic memory game using **JavaScript**. Test your memory and dive into game logic.
-[Explore the Website]()
+[Explore the Website](https://simonkishorer.netlify.app/)
 
 ---
 
