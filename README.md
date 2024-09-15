@@ -50,11 +50,11 @@
 
 ### [🎬 Movie Watchlist](https://github.com/kishorer03/MovieList)
 > Explore, rate, and save movies from the OMDB API. Built with **React** and **Tailwind CSS** for seamless UI/UX.
-[Explore the Website]()
+[Explore the Website](https://watchlistbykishorer.netlify.app/)
 
 ### [🎒 Packing List](https://github.com/kishorer03/PackingList)
 > A responsive packing list manager to track your travel essentials. Developed with **React** and **Tailwind CSS**.
-[Explore the Website]()
+[Explore the Website](https://packinglistbykishorer.netlify.app/)
 
 ### [🧠 Simon Challenge](https://github.com/kishorer03/SimonGameChallenge)
 > A classic memory game using **JavaScript**. Test your memory and dive into game logic.
